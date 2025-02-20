@@ -54,16 +54,16 @@ In the data Preparation Phase, the following tasks were perfromed:
 - Luxury Listings: Higher-priced listings are often concentrated in downtown Manhattan (SoHo, Tribeca, Midtown) and luxury waterfront areas in Brooklyn.
 Budget-Friendly Areas: Queens and the Bronx offer more affordable Airbnb options.
 
-2. Neighborhood Popularity
+2. Neighborhood Popularity:
 - Most Listings: Manhattan and Brooklyn have the highest density of Airbnb listings.
 - High Demand Areas: Neighborhoods like Williamsburg, Greenwich Village, and the Lower East Side show high occupancy rates due to tourism and nightlife.
 - Up-and-Coming Areas: Neighborhoods like Bushwick and Astoria are gaining traction due to lower prices and a growing number of trendy attractions.
   
-3. Availability & Booking Trends
+3. Availability & Booking Trends:
 - Highly Available Listings: Some properties are listed but rarely booked, affecting their ranking on Airbnb.
 - Seasonality Effect: Prices and bookings peak during summer months (June–August) and major holidays (Thanksgiving, Christmas, New Year’s Eve).
   
-4. Reviews & Guest Satisfaction
+4. Reviews & Guest Satisfaction:
 High Ratings: The majority of listings have ratings above 4.5, suggesting guests generally have positive experiences.
 
 # Recommendations
