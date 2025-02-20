@@ -2,7 +2,7 @@
 I created an Insightful Communication on this data set using Microsoft Excel with detailed tables like Power BI. This data set surfaces through statistical series, data cleaning and Vizualizations.
 
 Table of Contents
-1. # Project Overview
+1. # [Project Overview](Project Overview)
 2. # Tools
 3. # Data Cleaning process
 4. # Dashboard
