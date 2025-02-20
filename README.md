@@ -20,6 +20,8 @@ Table of Contents
 
 # Dashboard
 
+  <img src="https://github.com/![Air Bnb Analysis](https://github.com/user-attachments/assets/4d7f28c0-9ac7-4d0c-b0eb-07d6f5b58168)
+" width="400" height="250" alt="Image">
 
 # Tools
 The following tools helped in carrying out this survey successfully.
