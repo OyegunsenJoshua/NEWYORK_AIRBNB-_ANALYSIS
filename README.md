@@ -12,7 +12,7 @@ Table of Contents
 # Project Overview
 - Geographical Focus: New York City (Manhattan, Brooklyn, Queens, Bronx, Staten Island)
 - Data Sources: Airbnb public dataset (Inside Airbnb, Kaggle.com (Research))
-- 
+  
 # Key Areas of Analysis:
 - Listing distribution by borough and neighborhood.
 - Price trends based on location, property type, and seasonality.
